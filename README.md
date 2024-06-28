@@ -7,7 +7,7 @@ Our project involves integrating a density-based traffic sensing system for vehi
 1. Arduino Uno: The Arduino Uno is an open-source microcontroller board based on the Microchip ATmega328P microcontroller (MCU). It serves as a versatile platform for various electronic projects.
 2. PIR Sensor: This sensor collects data on the pedestrian movement.
 3. Buzzer: When PIR sensor senses the pedestrians, the buzzer makes a sound and the vehicle light turns red for the safety of the pedestrian.
-4. IR Sensors: These four sensors at each intersection collects data on vehicle movement. For our project, we’ll focus on densitybased sensors that measure traffic volume at intersections.
+4. IR Sensors: These four sensors at each intersection collects data on vehicle movement. For our project, we’ll focus on density-based sensors that measure traffic volume at intersections.
 5. Resistors: Twelve resistors each of 47Ω used to connect each traffic LED light to the electrical circuit.
 6. LED Lights: 12 LED lights, three each (red, yellow, green) on each of the four intersections.
 ## Advancement
