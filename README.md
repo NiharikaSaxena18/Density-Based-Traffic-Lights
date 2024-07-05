@@ -39,3 +39,5 @@ them to reduce emissions.
 - Standardizing smart traffic light protocols enables seamless travel across cities.
 - Imagine driving from one city to another without encountering outdated or incompatible signal systems.
 In summary, the future of smart traffic lights is dynamic, data-driven, and interconnected. As technology advances, these intelligent signals will continue to play a pivotal role in shaping our urban mobility landscape.
+## Image
+![image](https://github.com/NiharikaSaxena18/Density-Based-Traffic-Lights/assets/145530524/cce8d245-72c0-4c75-b992-89d3a28fe47c)
